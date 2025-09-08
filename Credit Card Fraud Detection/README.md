@@ -1,12 +1,6 @@
 # Credit Card Fraud Detection Demo
 
-## 1. Overview
-This example is based on the Machine Learning for Credit Card Fraud detection - Practical handbook, https://fraud-detection-handbook.github.io/fraud-detection-handbook/
-
-It shows how to do Feature Engineering with Snowpark, preparing data for training a Machine Learning model and finaly how to deploy and use a trained model in Snowflake using Python UDF.
-
-
-## 2. Prerequisite
+## Prerequisite
 
 * Snowflake account
 * Snowpark for Python version 0.12.0 or later
